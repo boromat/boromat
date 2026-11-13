@@ -2,4 +2,4 @@
 
 AI tools and automation · narzędzia AI i automatyzacje
 
-📫 kontaktboromat@gmail.com
+📫 kontaktboromat@gmail.com · [LinkedIn](https://www.linkedin.com/in/mateuszborowy/)
