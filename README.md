@@ -3,7 +3,7 @@
 I build AI tools that keep personal data away from the model.<br>
 Narzędzia AI, które nie wysyłają Twoich danych.
 
-**[Portfolio](https://boromat.github.io/en/)** ([po polsku](https://boromat.github.io/)) · [LinkedIn](https://www.linkedin.com/in/mateuszborowy/) · 📫 kontaktboromat@gmail.com
+**[Portfolio](https://boromat.pl/en/)** ([po polsku](https://boromat.pl/)) · [LinkedIn](https://www.linkedin.com/in/mateuszborowy/) · 📫 kontaktboromat@gmail.com
 
 | Project | What it does | Built with |
 |---|---|---|
